@@ -1,4 +1,5 @@
 # Text Encryption Toolkit
+A Python-based toolkit that implements Caesar Cipher, ROT13, Reverse Text, Letter Frequency Counter, and Encryption History Manager.
 
 ## Features
 - Caesar Cipher Encryption
